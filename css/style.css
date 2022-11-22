@@ -1,0 +1,91 @@
+devices (landscape phones, 576px and up) @media (min-width: 576px) {
+    ...
+}
+
+// Medium devices (tablets, 768px and up)
+@media (min-width: 768px) {
+    ...
+}
+
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) {
+    ...
+}
+
+//Extra large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) {
+    ...
+}
+
+.today {
+    margin-left: 44px;
+    position: absolute;
+    font-size: 50px;
+    color:whitesmoke;
+}
+
+.header {
+    background-image: url(https://img.rawpixel.com/private/static/images/website/2022-05/p-433-lukestackpoole-faint-milky-way-card-a.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=990a1a4cc178b68526bb1561283b5671);
+    width: 10000px;
+    height: 150px;
+    background-size: 1800px;
+    background-repeat: no-repeat;
+    margin-left: 35px;
+    margin-top: 10px;
+    position: absolute;
+}
+
+.box1 {
+    width: 200px;
+    height: 400px;
+    position: inherit;;
+    border-style: solid;
+    margin-left: 80px;
+    margin-top: 180px;
+}
+
+.box2 {
+    width: 200px;
+    height: 400px;
+    position: inherit;
+    border-style: solid;
+    margin-left: 436px;
+    margin-top: 180px;
+}
+
+.box3 {
+    width: 200px;
+    height: 400px;
+    position: inherit;
+    border-style: solid;
+    margin-left: 800px;
+    margin-top: 180px;
+}
+
+.box4 {
+    width: 200px;
+    height: 400px;
+    position: inherit;
+    border-style: solid;
+    margin-left: 1165px;
+    margin-top: 180px;
+}
+
+.box5 {
+    width: 200px;
+    height: 400px;
+    position: inherit;
+    border-style: solid;
+    margin-left: 1530px;
+    margin-top: 180px;
+}
+
+.footer {
+border-style: solid;
+background-color: gray;
+width: 1850px;
+height:150px;
+margin-top: 800px;
+margin-left:x ;
+position:absolute;
+}
