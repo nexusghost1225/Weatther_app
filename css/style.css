@@ -35,13 +35,20 @@ devices (landscape phones, 576px and up) @media (min-width: 576px) {
     position: absolute;
 }
 
+.days {
+    position: absolute;
+    margin-top: 200px;
+    margin-left: 155px;
+    word-spacing: 140px;
+}
+
 .box1 {
     width: 200px;
     height: 400px;
     position: inherit;;
     border-style: solid;
-    margin-left: 80px;
-    margin-top: 180px;
+    margin-left: 90px;
+    margin-top: 250px;
 }
 
 .box2 {
@@ -50,7 +57,7 @@ devices (landscape phones, 576px and up) @media (min-width: 576px) {
     position: inherit;
     border-style: solid;
     margin-left: 436px;
-    margin-top: 180px;
+    margin-top: 250px;
 }
 
 .box3 {
@@ -59,7 +66,7 @@ devices (landscape phones, 576px and up) @media (min-width: 576px) {
     position: inherit;
     border-style: solid;
     margin-left: 800px;
-    margin-top: 180px;
+    margin-top: 250px;
 }
 
 .box4 {
@@ -68,7 +75,7 @@ devices (landscape phones, 576px and up) @media (min-width: 576px) {
     position: inherit;
     border-style: solid;
     margin-left: 1165px;
-    margin-top: 180px;
+    margin-top: 250px;
 }
 
 .box5 {
@@ -77,13 +84,13 @@ devices (landscape phones, 576px and up) @media (min-width: 576px) {
     position: inherit;
     border-style: solid;
     margin-left: 1530px;
-    margin-top: 180px;
+    margin-top: 250px;
 }
 
 .footer {
 border-style: solid;
 background-color: gray;
-width: 1850px;
+width: 1860px;
 height:150px;
 margin-top: 800px;
 margin-left:x ;
